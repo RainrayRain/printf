@@ -1,1 +1,2 @@
-my printf readme
+PRINTF PROJECT
+Github [RainrayRain]
